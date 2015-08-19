@@ -1,8 +1,8 @@
 # WeKit 
 ## Introduce
-- WeKit是我封装各种方法堆积成的库
-- 持续更新，看到什么值得封我就喜欢去封一下
-- 欢迎fork,Let's 封装 together
+- WeKit是个乱七八糟的封装Library
+- 持续更新，看到什么值得封我就去封一下
+- 欢迎fork,让我们来一起封装吧
 
 ## Usage
 ### Get Hexadecimal Conversion Methods 关于进制转换
