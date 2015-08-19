@@ -2,7 +2,7 @@
 ## Introduce
 - WeKit是个乱七八糟的封装Library
 - 持续更新，看到什么值得封我就去封一下
-- 欢迎fork,让我们来一起封装吧
+- 欢迎fork,来一起嗨起来吧
 
 ## Usage
 ### Get Hexadecimal Conversion Methods 关于进制转换
